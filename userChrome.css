@@ -5,7 +5,7 @@
   }
 
   &[open] #identity-icon-box::after {
-    content: "open in new tab" !important;
+    content: "New Tab" !important;
     filter: opacity(0.5) !important;
     padding-left: 6px !important;
   }
